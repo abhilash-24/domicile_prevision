@@ -1,0 +1,12 @@
+@relation weather.symbolic
+
+@attribute year{2018, 2017,2016,2015}
+@attribute rate{2000, 2500,3200,3500}
+@attribute city{Bangalore, Mysore}
+
+@data
+2018,2000,Bangalore
+2017,3200,Mysore
+2017,2000,Bangalore
+2015,2500,Mysore 
+2014,3500,Bangalore
